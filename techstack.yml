@@ -1,7 +1,8 @@
 repo_name: zaknbur/geopython
 report_id: dd851a0af8fa04a2a0bfef807dd16fe5
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-23T15:30:43+00:00'
+timestamp: '2024-01-05T08:35:02+00:00'
 requested_by: ljwolf
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/zaknbur/geopython/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Serge Rey
   last_updated_on: 2018-05-07 08:06:58.000000000 Z
@@ -27,6 +29,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zaknbur/geopython
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -36,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/zaknbur/geopython/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Serge Rey
   last_updated_on: 2018-05-07 08:06:58.000000000 Z
@@ -47,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/zaknbur/geopython/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Serge Rey
   last_updated_on: 2018-05-07 08:06:58.000000000 Z
@@ -59,12 +64,14 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/zaknbur/geopython
   detection_source: Repo Metadata
 - name: geopandas
   website_url: https://pypi.org/project/geopandas/
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/12520/empty-logo-square.png
+  detection_source_url: https://github.com/zaknbur/geopython/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Serge Rey
   last_updated_on: 2018-05-07 08:06:58.000000000 Z
@@ -77,6 +84,7 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/2657/scikit-learn-logo.png
+  detection_source_url: https://github.com/zaknbur/geopython/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Serge Rey
   last_updated_on: 2018-05-07 08:06:58.000000000 Z
@@ -87,6 +95,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/5689/sf_ops_badge_64_normal.png
+  detection_source_url: https://github.com/zaknbur/geopython/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Serge Rey
   last_updated_on: 2018-05-07 08:06:58.000000000 Z
